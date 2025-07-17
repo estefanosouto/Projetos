@@ -1,0 +1,12 @@
+farmacia/
+├── index.html          (Página principal)
+├── caixa.html         (Módulo de caixa)
+├── estoque.html       (Módulo de estoque)
+├── relatorios.html    (Relatórios)
+├── css/
+│   └── estilo.css     (Estilos principais)
+├── js/
+│   ├── sistema.js     (Funções principais)
+│   ├── caixa.js       (Lógica do caixa)
+│   └── estoque.js     (Lógica do estoque)
+└── img/               (Ícones e imagens)
